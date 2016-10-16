@@ -329,6 +329,8 @@
      }
   #banner .sub-menu{
      display:block;
+      position:relative;
+      background-color:transparent;
      }
   .social, .contacts {
        text-align: center ! important
@@ -345,16 +347,6 @@
      }
   #banner a {
        font-size: 130%;
-     }
-  #banner .sub-menu {
-       position: relative;
-       display: none;
-       height: 0px;
-     }
-  #banner .has-sub-menu::after {
-       border-width: 10px;
-       right: 20px;
-       top: 20px;
      }
   #banner nav li:hover .sub-menu {
        display: block;
