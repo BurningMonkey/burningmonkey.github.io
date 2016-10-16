@@ -327,10 +327,11 @@
   #banner .has-sub-menu::after{
        display:none;
      }
-  #banner .sub-menu{
+ #banner .sub-menu{
      display:block;
       position:relative;
       background-color:transparent;
+      margin:-35px 0 15px 20px;
      }
   .social, .contacts {
        text-align: center ! important
