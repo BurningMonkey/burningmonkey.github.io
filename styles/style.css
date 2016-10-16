@@ -333,6 +333,9 @@
       background-color:transparent;
       margin:-35px 0 15px 20px;
      }
+ #banner .sub-menu li{
+     padding: 0px;
+     }
   .social, .contacts {
        text-align: center ! important
             ; }
