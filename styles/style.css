@@ -334,8 +334,8 @@
       margin:-35px 0 15px 20px;
      }
  #banner .sub-menu li{
-     padding: 0px;
-     }
+        padding:0 15px;
+    }
   .social, .contacts {
        text-align: center ! important
             ; }
